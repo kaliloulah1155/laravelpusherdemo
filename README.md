@@ -4,6 +4,6 @@ https://pushertest.local/
 
 demo de push avec laravel 
 
-Configuration : \
+Configuration : \  
 Event(server) => Broacast => Listener(client)
  
